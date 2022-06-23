@@ -1,0 +1,20 @@
+{
+    "appConfig": {
+      "browserName": "chrome",
+      "webBaseURL": "https://www.saucedemo.com/",
+      "apiURL": "https://reqres.in/",
+      "socketType": "wss://",
+      "serviceFabricURL": "mendoza.slots.qa.intelligentgamingsystems.com",
+      "portNumber": "19081"
+  },
+
+    "dbConnectionString": {
+        "dataSource": "10.31.11.184",
+        "userName": "jmeter",
+        "password" :  "Intel666!"
+    },
+
+    "testData": {
+        "subnet": "10.31.12.124/24"
+    }
+}

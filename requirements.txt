@@ -1,0 +1,8 @@
+#execute from cmd prompt to install dependency -> 'pip install -r requirements.txt'
+selenium
+requests
+webdriver_manager
+behavex
+behave
+chromedriver-autoinstaller
+playwright
