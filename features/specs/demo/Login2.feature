@@ -8,6 +8,6 @@ Feature: Login test2
     And verify login success
     Examples:
       | username       | password     |
-      | standard_user  | secret_sauce |
       | standard_user2 | secret_sauce |
+      | standard_user  | secret_sauce |
 
